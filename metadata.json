@@ -1,0 +1,7 @@
+{
+  "name": "Copy of QuickOrder QR & KDS",
+  "description": "A professional restaurant management system featuring an interactive customer menu and a real-time Kitchen Display System (KDS) using BroadcastChannel for multi-device simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
